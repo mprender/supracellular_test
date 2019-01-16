@@ -1,0 +1,7 @@
+pandas
+seaborn
+numpy
+matplotlib.pyplot
+scipy.spatial
+collections
+sys
